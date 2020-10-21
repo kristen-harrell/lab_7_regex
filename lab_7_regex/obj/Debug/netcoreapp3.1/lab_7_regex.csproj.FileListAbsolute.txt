@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.exe
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.deps.json
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.runtimeconfig.json
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.runtimeconfig.dev.json
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.dll
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\bin\Debug\netcoreapp3.1\lab_7_regex.pdb
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.AssemblyInfo.cs
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.dll
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.pdb
+C:\Users\harre\source\repos\lab_7_regex\lab_7_regex\obj\Debug\netcoreapp3.1\lab_7_regex.genruntimeconfig.cache
